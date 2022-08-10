@@ -1,0 +1,17 @@
+{
+  "name": "usedatabase",
+  "version": "0.0.1",
+  "description": "prueba sobre el uso de progress y enrutamiento",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hector Contreras",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "pg": "^8.7.3",
+    "swagger-jsdoc": "^6.2.5",
+    "swagger-ui-express": "^4.5.0"
+  }
+}
